@@ -1,4 +1,6 @@
 '''
+stochastic gradient descent
+
 take the derivative of the error function and find the local minima
 gradient is the direction of the steepest ascent. we go to the opposite direction to get the best descent
 df/dx = 2(x+5)
